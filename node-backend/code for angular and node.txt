@@ -1,0 +1,8 @@
+**************************node******************************
+npm i    =  for installing node modules
+npm run  =  server = for starting node application
+
+*************************Angular************************
+npm i    =    installing node modules
+ng build =    building angular application
+ng serve =    running angular application
