@@ -62,4 +62,6 @@ spec:
   selector:
     app: mysql
 
+#    delete this
+
 
